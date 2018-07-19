@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="15" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="16" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="22" pc="268435527" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="23" pc="268435531" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="24" pc="268435567" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="26" pc="268435579" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="27" pc="268435596" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="28" pc="268435606" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="29" pc="268435642" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="30" pc="268435719" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="31" pc="268435755" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="34" pc="268435839" symbol="onShow"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="37" pc="268435844" symbol="onHide"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="40" pc="268435849" symbol="onExitSleep"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="43" pc="268435854" symbol="onEnterSleep"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="5" pc="268435859" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="6" pc="268435863" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="10" pc="268435882" symbol="onStart"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="14" pc="268435887" symbol="onStop"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="18" pc="268435892" symbol="getInitialView"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="19" pc="268435896" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="11" symbol="customFont"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="10" object="true" symbol="WatchFaceMasterApp"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="15" symbol="AppName"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="9" object="true" symbol="WatchFaceMasterView"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435527" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435838" name="hour" stackId="3" startPc="268435531"/>
+<entry endPc="268435838" name="clockTime" stackId="2" startPc="268435531"/>
+<entry endPc="268435839" name="dc" stackId="1" startPc="268435527"/>
+<entry endPc="268435887" name="state" stackId="1" startPc="268435882"/>
+<entry endPc="268435892" name="state" stackId="1" startPc="268435887"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="WatchFaceMasterView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WatchFaceMasterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WatchFaceMasterView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WatchFaceMasterView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WatchFaceMasterView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="WatchFaceMasterView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="WatchFaceMasterView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WatchFaceMasterApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WatchFaceMasterApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WatchFaceMasterApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WatchFaceMasterApp">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="WatchFaceMasterView" type="class"/>
+<dataEntry offset="269" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="348" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="387" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="418" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="457" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="488" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="519" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="558" parentId="globals" symbolId="WatchFaceMasterApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
