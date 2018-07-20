@@ -1,44 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="10" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="11" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="15" pc="268435479" symbol="onLayout"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="21" pc="268435484" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="22" pc="268435488" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="23" pc="268435524" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="25" pc="268435536" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="26" pc="268435553" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="27" pc="268435563" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="28" pc="268435599" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="29" pc="268435670" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="30" pc="268435706" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="32" pc="268435783" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="35" pc="268435806" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="36" pc="268435817" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="37" pc="268435856" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="38" pc="268435867" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="40" pc="268435906" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="42" pc="268435942" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="45" pc="268436052" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="46" pc="268436075" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="47" pc="268436098" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="49" pc="268436111" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="50" pc="268436122" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="51" pc="268436161" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="52" pc="268436172" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="54" pc="268436211" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="57" pc="268436247" symbol="onUpdate"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="61" pc="268436343" symbol="onShow"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="64" pc="268436348" symbol="onHide"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="67" pc="268436353" symbol="onExitSleep"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="70" pc="268436358" symbol="onEnterSleep"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="5" pc="268436363" symbol="initialize"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="6" pc="268436367" symbol="initialize"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="10" pc="268436386" symbol="onStart"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="14" pc="268436391" symbol="onStop"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="18" pc="268436396" symbol="getInitialView"/>
-<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="19" pc="268436400" symbol="getInitialView"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="12" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="13" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="17" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="23" pc="268435484" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="24" pc="268435488" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="25" pc="268435524" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="28" pc="268435536" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="29" pc="268435553" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="30" pc="268435566" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="31" pc="268435576" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="32" pc="268435612" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="33" pc="268435683" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="34" pc="268435719" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="36" pc="268435835" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="39" pc="268435858" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="40" pc="268435869" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="41" pc="268435908" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="42" pc="268435919" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="44" pc="268435958" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="46" pc="268435994" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="49" pc="268436110" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="50" pc="268436133" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="51" pc="268436156" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="53" pc="268436169" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="54" pc="268436180" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="55" pc="268436219" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="56" pc="268436230" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="58" pc="268436269" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="61" pc="268436305" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="64" pc="268436400" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="65" pc="268436436" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="66" pc="268436484" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="75" pc="268436576" symbol="onUpdate"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="79" pc="268436657" symbol="onShow"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="82" pc="268436662" symbol="onHide"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="85" pc="268436667" symbol="onExitSleep"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterView.mc" lineNum="88" pc="268436672" symbol="onEnterSleep"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="5" pc="268436677" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="6" pc="268436681" symbol="initialize"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="10" pc="268436700" symbol="onStart"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="14" pc="268436705" symbol="onStop"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="18" pc="268436710" symbol="getInitialView"/>
+<entry filename="C:\\_STUFF\\_PROJECTS\\WatchFaceMaster\\.\\source\\WatchFaceMasterApp.mc" lineNum="19" pc="268436714" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -49,6 +54,7 @@
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="10" object="true" symbol="WatchFaceMasterApp"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="14" symbol="AppName"/>
@@ -67,15 +73,17 @@
 </symbolTable>
 <localVars>
 <entry endPc="268435484" name="dc" stackId="1" startPc="268435479"/>
-<entry endPc="268436342" name="battery" stackId="4" startPc="268435488"/>
-<entry endPc="268436342" name="hour" stackId="3" startPc="268435488"/>
-<entry endPc="268436342" name="steps" stackId="5" startPc="268435488"/>
-<entry endPc="268436342" name="stepPercent" stackId="7" startPc="268435488"/>
-<entry endPc="268436342" name="clockTime" stackId="2" startPc="268435488"/>
-<entry endPc="268436342" name="stepGoal" stackId="6" startPc="268435488"/>
-<entry endPc="268436343" name="dc" stackId="1" startPc="268435484"/>
-<entry endPc="268436391" name="state" stackId="1" startPc="268436386"/>
-<entry endPc="268436396" name="state" stackId="1" startPc="268436391"/>
+<entry endPc="268436656" name="battery" stackId="4" startPc="268435488"/>
+<entry endPc="268436656" name="hour" stackId="3" startPc="268435488"/>
+<entry endPc="268436656" name="today" stackId="8" startPc="268435488"/>
+<entry endPc="268436656" name="steps" stackId="5" startPc="268435488"/>
+<entry endPc="268436656" name="dateString" stackId="9" startPc="268435488"/>
+<entry endPc="268436656" name="stepPercent" stackId="7" startPc="268435488"/>
+<entry endPc="268436656" name="clockTime" stackId="2" startPc="268435488"/>
+<entry endPc="268436656" name="stepGoal" stackId="6" startPc="268435488"/>
+<entry endPc="268436657" name="dc" stackId="1" startPc="268435484"/>
+<entry endPc="268436705" name="state" stackId="1" startPc="268436700"/>
+<entry endPc="268436710" name="state" stackId="1" startPc="268436705"/>
 </localVars>
 <annotations/>
 <functions>
